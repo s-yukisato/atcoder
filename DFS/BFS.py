@@ -1,7 +1,4 @@
-from typing import Collection
-
-
-form collections import deque
+from collections import deque
 
 que = deque()
 

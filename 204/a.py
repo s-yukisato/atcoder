@@ -1,3 +1,3 @@
-a, b = map(int, input().split())
+x, y = map(int, input().split())
 
-print(a / 100 * b)
+print((3-x-y)%3)

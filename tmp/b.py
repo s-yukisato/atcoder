@@ -11,6 +11,3 @@ def TL_(n): return [list(input()) for _ in range(n)]
 def yn(judge, yes="Yes", no="No"): print(yes if judge else no)
 MOD = 10 ** 9 + 7
 INF = float('inf')
-
-
-n = II()
